@@ -18,7 +18,7 @@ src="https://img.shields.io/github/followers/EthanJohnson1231925?logo=github&sty
 # 📊 GitHub Stats:
 <div align="center">
 
-<a href="https://github.com/EthanJohnson12321925">
+<a href="https://github.com/EthanJohnson1231925">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EthanJohnson1231925&theme=2077" height="180em" />
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EthanJohnson1231925&theme=2077" height="180em" />
