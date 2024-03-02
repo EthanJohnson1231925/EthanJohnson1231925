@@ -8,7 +8,7 @@ src="https://img.shields.io/github/followers/EthanJohnson1231925?logo=github&sty
 
 
 ## 🌐 How To Reach Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-kumar-suman)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/+381621104766) [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:EthanJohnson1231925@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ethan-johnson-328a262b7(https://www.linkedin.com/in/ethan-johnson-328a262b7/))  [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/+381621104766) [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:EthanJohnson1231925@gmail.com)
 
 
 # 💻 Tech Stack: 
