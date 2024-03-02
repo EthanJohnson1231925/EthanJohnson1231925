@@ -16,19 +16,9 @@ src="https://img.shields.io/github/followers/EthanJohnson1231925?logo=github&sty
 <!--  ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)  -->
  
 # 📊 GitHub Stats:
-<div align="center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=EthanJohnson1231925&theme=highcontrast)](https://git.io/streak-stats&theme=highcontrast)
 
-<a href="https://github.com/EthanJohnson1231925">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EthanJohnson1231925&theme=2077" height="180em" />
-
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EthanJohnson1231925&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EthanJohnson1231925&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EthanJohnson1231925&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EthanJohnson1231925&theme=2077" height="180em" />
-</div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=EthanJohnson1231925&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanJohnson1231925&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <div align='center'>
 <p>Give my profile a star ⭐⭐</p>
