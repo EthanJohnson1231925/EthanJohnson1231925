@@ -19,12 +19,12 @@ src="https://img.shields.io/github/followers/EthanJohnson1231925?logo=github&sty
 <div align="center">
 
 <a href="https://github.com/EthanJohnson12321925">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EthanJohnson12321925&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EthanJohnson1231925&theme=2077" height="180em" />
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EthanJohnson12321925&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EthanJohnson12321925&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EthanJohnson12321925&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EthanJohnson12321925&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EthanJohnson1231925&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EthanJohnson1231925&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EthanJohnson1231925&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EthanJohnson1231925&theme=2077" height="180em" />
 </div>
 
 ## 🏆 GitHub Trophies
